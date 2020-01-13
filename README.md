@@ -10,7 +10,9 @@
 
 ## 效果:
 
-    ![avatar](https://raw.githubusercontent.com/YancyYe/GalleryPick/master/picture/image_1.jpg)
+   ![image1](/image/old/a.png)
+
+
 ## 使用条件：
         windows 系统  + android studio 3.5 + gradle 3.5.0
 
