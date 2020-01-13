@@ -8,6 +8,9 @@
     .jpg        没写         yes        取转化后的webp图片
     .gif        no           yes        取转化后的webp图片
 
+## 效果:
+
+    ![](/image/old/a.png)
 ## 使用条件：
         windows 系统  + android studio 3.5 + gradle 3.5.0
 

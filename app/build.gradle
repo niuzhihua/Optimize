@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 //可选 代码支持通过view id获取对象，不再需要findViewById
 apply plugin: 'kotlin-android-extensions'
-//apply plugin: 'com.nzh.optimize'
+apply plugin: 'com.nzh.optimize'
 
 android {
     compileSdkVersion 28
