@@ -10,7 +10,7 @@
 
 ## 效果:
 
-    ![avatar](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png)
+    ![avatar](https://raw.githubusercontent.com/YancyYe/GalleryPick/master/picture/image_1.jpg)
 ## 使用条件：
         windows 系统  + android studio 3.5 + gradle 3.5.0
 
