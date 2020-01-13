@@ -10,7 +10,8 @@
 
 ## 效果:
 
-   ![image1](/image/old/a.png)
+            原图:                             压缩或转换后:
+   ![image1](/image/old/a.png "10.74k")       ![image1](/image/new/a.png "2k")
 
 
 ## 使用条件：
