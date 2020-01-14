@@ -10,9 +10,12 @@
 
 ## 效果:
 
-####        原图大小：
+        原图              原图大小             压缩或转化后大小
 
-        ![img](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png)
+        a.png             10.74k                2 KB        a.png
+        aa.gif            107.78k               93.3 KB     aa.webp
+        aaa.png           43.08k                6.15 KB     aaa.webp
+        jj.jpg            278.13k               81.5 KB     jj.webp
 
 
 ## 使用条件：
