@@ -10,9 +10,13 @@
 
 ## 效果:
 
-            原图:                             压缩或转换后:
-   ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )       ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/new/a.png)
+            原图:
+        ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )
 
+
+        ----压缩或转换后:
+
+        ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/new/a.png)
 
 
 ## 使用条件：
