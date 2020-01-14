@@ -11,7 +11,7 @@
 ## 效果:
 
             原图:                             压缩或转换后:
-   ![image1](/image/old/a.png )       ![image1](/image/new/a.png)
+   ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )       ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/new/a.png)
 
 
 
