@@ -11,11 +11,11 @@
 ## 效果:
 
         原图大小：
-        [![image1](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )]
+        [![](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )]
 
         原图大小：
 
-        [![image1](https://github.com/niuzhihua/Optimize/blob/master/image/new/a.png)]
+        [![](https://github.com/niuzhihua/Optimize/blob/master/image/new/a.png)]
 
 
 ## 使用条件：
