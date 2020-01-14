@@ -12,7 +12,8 @@
 
             原图:                             压缩或转换后:
    ![image1](/image/old/a.png )       ![image1](/image/new/a.png)
-     10.74k                             2k
+
+   >  10.74k                             2k
 
 ## 使用条件：
         windows 系统  + android studio 3.5 + gradle 3.5.0
