@@ -10,11 +10,9 @@
 
 ## 效果:
 
-        原图大小：
+####        原图大小：
 
         [![](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )]
-
-
 
 
 
