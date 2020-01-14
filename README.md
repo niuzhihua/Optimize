@@ -10,12 +10,10 @@
 
 ## 效果:
 
-            原图:
+        原图大小：
         ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )
 
-
-        ----
-        压缩或转换后:
+        原图大小：
 
         ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/new/a.png)
 
