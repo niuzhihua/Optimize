@@ -10,12 +10,12 @@
 
 ## 效果:
 
-        原图              原图大小             压缩或转化后大小
+        原图                      原图大小               压缩或转化后大小
 
-        a.png             10.74k                2 KB        a.png
-        aa.gif            107.78k               93.3 KB     aa.webp
-        aaa.png           43.08k                6.15 KB     aaa.webp
-        jj.jpg            278.13k               81.5 KB     jj.webp
+        image/old/a.png            10.74k                2 KB           image/new/a.png
+        image/old/aa.gif           107.78k               93.3 KB        image/new/aa.webp
+        image/old/aaa.png          43.08k                6.15 KB        image/new/aaa.webp
+        image/old/jj.jpg           278.13k               81.5 KB        image/new/jj.webp
 
 
 ## 使用条件：
