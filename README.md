@@ -14,7 +14,8 @@
         ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/old/a.png )
 
 
-        ----压缩或转换后:
+        ----
+        压缩或转换后:
 
         ![image1](https://github.com/niuzhihua/Optimize/blob/master/image/new/a.png)
 
